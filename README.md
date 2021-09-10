@@ -1,4 +1,5 @@
 The implementation of Pix2Pix and CycleGAN.
+For detailed project report, see [Report.pdf](https://github.com/ypgao1/Images-to-Sketches-with-GAN-s/blob/main/Project.pdf)
 
 ## File Structure
 
